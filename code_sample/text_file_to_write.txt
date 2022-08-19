@@ -1,0 +1,2 @@
+This line already exist in file
+This is new line, written by the code

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo -n "Please enter a link: "
+read link
+python anagram_palyndrom_finder.py --link ${link}
